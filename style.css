@@ -1,0 +1,63 @@
+.pole {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 500px;
+	height: 500px;
+	background: gray;
+	opacity: 0.5;
+}
+
+.igrok {
+	position: absolute;
+	left: 100px;
+	top: 450px;
+	width: 50px;
+	height: 50px;
+	color: red;
+	font-size: 50px;
+	background: orange;
+	text-align: center;
+}
+
+.vrag {
+	position: absolute;
+	left: 90px;
+	width: 50px;
+	height: 50px;
+	font-size: 90px;
+	border-radius: 25px;
+	background: black;
+	color: gray;
+	text-align: center;
+}
+
+.boss {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 50px;
+	height: 50px;
+	font-size: 90px;
+	border-radius: 25px;
+	background: red;
+	color: black;
+	text-align: center;
+}
+
+.krepost {
+	position: absolute;
+	top: 400px;
+	width: 100px;
+	height: 50px;
+	border-radius: 5px;
+	background: white;
+}
+
+.krepost_01 {
+	left: 100px;
+}
+
+.krepost_02 {
+	left: 300px;
+}
